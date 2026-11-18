@@ -1,0 +1,16 @@
+{
+    "mahasiswa": [
+        {"nim": "23001", "nama": "Andi", "nilai": 85.0},
+        {"nim": "23002", "nama": "Budi", "nilai": 72.0},
+        {"nim": "23003", "nama": "Citra", "nilai": 90.0},
+        {"nim": "23004", "nama": "Dinda", "nilai": 78.0},
+        {"nim": "23005", "nama": "Eko", "nilai": 65.0}
+    ],
+    "rekapitulasi": {
+        "jumlah": 5,
+        "rata_rata": 78.0,
+        "tertinggi": 90.0,
+        "terendah": 65.0,
+        "nim_unik": 5
+    }
+}
